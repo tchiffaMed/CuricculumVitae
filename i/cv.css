@@ -1,0 +1,32 @@
+#imRd       {
+    border-radius:700px;
+    height:100px; 
+    box-shadow: 2px 2px 2px  sienna;
+}
+#nom        {
+    color: #bf6e4e;
+    text-shadow:4px 4px 4px #f0b7a1;
+}
+.Rubrique mark  {
+    font-weight: solide;
+    color:#FFFFFF;
+    background-image:linear-gradient(to left,#f0b7a1, #bf6e4e) ;
+    border-radius: 5px;
+    box-shadow: 6px 6px 6px  #f0b7a1;
+    border: dashed salmon;
+    opacity: 1;
+}
+
+mark:hover     {
+    box-shadow: 9px 9px 9px  #f0b7a1;
+}
+
+
+body     {
+    font-family: 'Quicksand-Light','Times New Roman', serif;
+}
+
+@font-face      {
+    font-family: Quicksand-Light;
+   src: url("Quicksand-Light.otf");
+}
